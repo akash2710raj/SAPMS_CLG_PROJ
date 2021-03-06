@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Student Alumni Portal Management System@ram">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/CODE@RAM/src"/>
+        <property name="context-root" value="Student_Alumni_Portal_Management_System@ram"/>
+        <property name="java-output-path" value="/Student Alumni Portal Management System@ram/CODE@RAM/WebRoot/WEB-INF/classes"/>
+    </wb-module>
+</project-modules>
